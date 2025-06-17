@@ -8,6 +8,7 @@ Originally, this challenge was set for **51 days** of continuous coding, project
 
 This is more than just a coding streak — it is a celebration of mentorship, family, and persistence.
 
+
 ---
 
 ## 🎯 Purpose
